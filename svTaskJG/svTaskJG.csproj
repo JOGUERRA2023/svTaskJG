@@ -178,7 +178,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="svTaskJG_TemporaryKey.pfx" />
     <None Include="TaskConfig.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>TaskConfig.Designer.cs</LastGenOutput>
