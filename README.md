@@ -1,3 +1,1 @@
-# svTaskJG
-App desktop para ejecutar tareas en segundo plano
 svTaskJG es una aplicación de escritorio desarrollada en C# .NET que se ejecuta en segundo plano para realizar automáticamente web scraping del tipo de cambio oficial publicado por SUNAT (Perú). La aplicación extrae el valor del último tipo de cambio (compra y venta) y lo envía a uno o varios endpoints de una API REST, todo de forma automática según una hora programada por el usuario.
